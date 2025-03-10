@@ -1,7 +1,7 @@
 # Lembrar
 
-Se confessar para ela
-Nunca deixar a conta logada 
-Terminar as lições
-Jogar lol
-Jogar Valo
+Se confessar para ela <br>
+Nunca deixar a conta logada  <br>
+Terminar as lições <br>
+Jogar lol <br>
+Jogar Valo <br>
